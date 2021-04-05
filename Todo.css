@@ -1,0 +1,18 @@
+.card__container {
+  max-width: 300px !important;
+  margin: 80px auto !important;
+  max-height: 600px;
+  overflow: scroll;
+}
+.formain__container {
+  display: flex;
+  justify-content: space-between;
+}
+.img__container {
+  margin: 10px;
+  width: 20px;
+  height: 30px;
+}
+img:hover {
+  cursor: pointer;
+}
